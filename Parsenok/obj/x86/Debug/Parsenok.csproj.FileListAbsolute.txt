@@ -1,0 +1,53 @@
+C:\Users\JB\Desktop\Parsenok\Parsenok\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JB\Desktop\Parsenok\Parsenok\obj\x86\Debug\Parsenok.Properties.Resources.resources
+C:\Users\JB\Desktop\Parsenok\Parsenok\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JB\Desktop\Parsenok\Parsenok\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JB\Desktop\Parsenok\Parsenok\bin\Debug\Parsenok.exe
+C:\Users\JB\Desktop\Parsenok\Parsenok\bin\Debug\Parsenok.pdb
+C:\Users\JB\Desktop\Parsenok\Parsenok\obj\x86\Debug\Parsenok.exe
+C:\Users\JB\Desktop\Parsenok\Parsenok\obj\x86\Debug\Parsenok.pdb
+C:\Users\JB\Desktop\Parsenok\Parsenok\obj\x86\Debug\Parsenok.Form1.resources
+F:\Programing\my programs\Parsenok\Parsenok\obj\x86\Debug\Parsenok.exe
+F:\Programing\my programs\Parsenok\Parsenok\obj\x86\Debug\Parsenok.pdb
+F:\Programing\my programs\Parsenok\Parsenok\bin\Debug\Parsenok.exe
+F:\Programing\my programs\Parsenok\Parsenok\bin\Debug\Parsenok.pdb
+F:\Programing\my programs\Parsenok\Parsenok\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programing\my programs\Parsenok\Parsenok\obj\x86\Debug\Parsenok.Form1.resources
+F:\Programing\my programs\Parsenok\Parsenok\obj\x86\Debug\Parsenok.Properties.Resources.resources
+F:\Programing\my programs\Parsenok\Parsenok\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programing\my programs\Parsenok\Parsenok\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programing\my programs\Parsenok 2.0\Parsenok\obj\x86\Debug\Parsenok.exe
+F:\Programing\my programs\Parsenok 2.0\Parsenok\obj\x86\Debug\Parsenok.pdb
+F:\Programing\my programs\Parsenok 2.0\Parsenok\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programing\my programs\Parsenok 2.0\Parsenok\obj\x86\Debug\Parsenok.Form1.resources
+F:\Programing\my programs\Parsenok 2.0\Parsenok\obj\x86\Debug\Parsenok.Properties.Resources.resources
+F:\Programing\my programs\Parsenok 2.0\Parsenok\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programing\my programs\Parsenok 2.0\Parsenok\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programing\my programs\Parsenok 2.0\Parsenok\bin\Debug\Parsenok.exe
+F:\Programing\my programs\Parsenok 2.0\Parsenok\bin\Debug\Parsenok.pdb
+F:\Programing\my programs\Parsenok 3.0\Parsenok\obj\x86\Debug\Parsenok.exe
+F:\Programing\my programs\Parsenok 3.0\Parsenok\obj\x86\Debug\Parsenok.pdb
+F:\Programing\my programs\Parsenok 3.0\Parsenok\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programing\my programs\Parsenok 3.0\Parsenok\obj\x86\Debug\Parsenok.Form1.resources
+F:\Programing\my programs\Parsenok 3.0\Parsenok\obj\x86\Debug\Parsenok.Properties.Resources.resources
+F:\Programing\my programs\Parsenok 3.0\Parsenok\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programing\my programs\Parsenok 3.0\Parsenok\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programing\my programs\Parsenok 3.0\Parsenok\bin\Debug\Parsenok.exe
+F:\Programing\my programs\Parsenok 3.0\Parsenok\bin\Debug\Parsenok.pdb
+F:\Programing\my programs\Parsenok 4.0\Parsenok\obj\x86\Debug\Parsenok.exe
+F:\Programing\my programs\Parsenok 4.0\Parsenok\obj\x86\Debug\Parsenok.pdb
+F:\Programing\my programs\Parsenok 4.0\Parsenok\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programing\my programs\Parsenok 4.0\Parsenok\obj\x86\Debug\Parsenok.Form1.resources
+F:\Programing\my programs\Parsenok 4.0\Parsenok\obj\x86\Debug\Parsenok.Properties.Resources.resources
+F:\Programing\my programs\Parsenok 4.0\Parsenok\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programing\my programs\Parsenok 4.0\Parsenok\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programing\my programs\Parsenok 4.0\Parsenok\bin\Debug\Parsenok.exe
+F:\Programing\my programs\Parsenok 4.0\Parsenok\bin\Debug\Parsenok.pdb
+F:\Programing\my programs\Parsenok 5.0\Parsenok\obj\x86\Debug\Parsenok.exe
+F:\Programing\my programs\Parsenok 5.0\Parsenok\obj\x86\Debug\Parsenok.pdb
+F:\Programing\my programs\Parsenok 5.0\Parsenok\obj\x86\Debug\Parsenok.csprojResolveAssemblyReference.cache
+F:\Programing\my programs\Parsenok 5.0\Parsenok\obj\x86\Debug\Parsenok.Form1.resources
+F:\Programing\my programs\Parsenok 5.0\Parsenok\obj\x86\Debug\Parsenok.Properties.Resources.resources
+F:\Programing\my programs\Parsenok 5.0\Parsenok\obj\x86\Debug\Parsenok.csproj.GenerateResource.Cache
+F:\Programing\my programs\Parsenok 5.0\Parsenok\bin\Debug\Parsenok.exe
+F:\Programing\my programs\Parsenok 5.0\Parsenok\bin\Debug\Parsenok.pdb

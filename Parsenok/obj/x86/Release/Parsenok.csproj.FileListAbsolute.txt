@@ -1,0 +1,7 @@
+F:\Programing\my programs\Parsenok 5.0\Parsenok\bin\Release\Parsenok.exe
+F:\Programing\my programs\Parsenok 5.0\Parsenok\bin\Release\Parsenok.pdb
+F:\Programing\my programs\Parsenok 5.0\Parsenok\obj\x86\Release\Parsenok.Form1.resources
+F:\Programing\my programs\Parsenok 5.0\Parsenok\obj\x86\Release\Parsenok.Properties.Resources.resources
+F:\Programing\my programs\Parsenok 5.0\Parsenok\obj\x86\Release\Parsenok.csproj.GenerateResource.Cache
+F:\Programing\my programs\Parsenok 5.0\Parsenok\obj\x86\Release\Parsenok.exe
+F:\Programing\my programs\Parsenok 5.0\Parsenok\obj\x86\Release\Parsenok.pdb
